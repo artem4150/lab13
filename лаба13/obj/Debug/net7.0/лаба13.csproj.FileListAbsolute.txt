@@ -1,0 +1,15 @@
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.csproj.AssemblyReference.cache
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.AssemblyInfoInputs.cache
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.AssemblyInfo.cs
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.csproj.CoreCompileInputs.cache
+/Users/artemijgorovoj/Projects/лаба13/лаба13/bin/Debug/net7.0/лаба13
+/Users/artemijgorovoj/Projects/лаба13/лаба13/bin/Debug/net7.0/лаба13.deps.json
+/Users/artemijgorovoj/Projects/лаба13/лаба13/bin/Debug/net7.0/лаба13.runtimeconfig.json
+/Users/artemijgorovoj/Projects/лаба13/лаба13/bin/Debug/net7.0/лаба13.dll
+/Users/artemijgorovoj/Projects/лаба13/лаба13/bin/Debug/net7.0/лаба13.pdb
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.dll
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/refint/лаба13.dll
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.pdb
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/лаба13.genruntimeconfig.cache
+/Users/artemijgorovoj/Projects/лаба13/лаба13/obj/Debug/net7.0/ref/лаба13.dll
